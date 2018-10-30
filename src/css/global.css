@@ -1,4 +1,7 @@
 body {
-  background: #ff0000; }
+  background: #ccc; }
+  body h1 {
+    font-size: 12px;
+    color: #ff0000; }
 
 /*# sourceMappingURL=global.css.map */
