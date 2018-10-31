@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "geral.css",
+  "sources": [
+    "../sass/geral.sass",
+    "../sass/plugins.sass"
+  ],
+  "mappings": "AAEA,AAAA,IAAI,CAAC;EACD,UAAU,ECDN,OAAO,GDQkB;EARjC,AAGI,IAHA,CAGA,EAAE,CAAC;IACC,SAAS,ECDT,IAAI;IDEJ,KAAK,ECPL,OAAO,GDOS;EALxB,AAOI,IAPA,CAOA,CAAC,CAAC;IACE,SAAS,ECHN,IAAI,GDGgB",
+  "names": []
+}

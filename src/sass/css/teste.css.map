@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "file": "teste.css",
+  "sources": [
+    "../atomos/teste.sass"
+  ],
+  "mappings": "",
+  "names": []
+}
