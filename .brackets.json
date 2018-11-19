@@ -2,7 +2,7 @@
     "sass.enabled": false,
     "sass.compiler": "libsass",
     "path": {
-        "src/sass/**/*.sass": {
+        "sass/**/*.sass": {
             "sass.enabled": true,
             "sass.options": {
                 "outputDir": "../css",
