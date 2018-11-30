@@ -10,7 +10,7 @@
                 "sourceComments": false,
                 "outputStyle": "nested"
             },
-            "linting.collapsed": false,
+            "linting.collapsed": true,
             "brackets-git.gitPath": "git",
             "brackets-git.stripWhitespaceFromCommits": true,
             "brackets-git.addEndlineToTheEndOfFile": true,
@@ -41,7 +41,14 @@
             "brackets-git.gitTimeout": 30,
             "brackets-git.terminalCommand": "/home/klayton/.config/Brackets/extensions/user/zaggino.brackets-git/shell/terminal.sh",
             "brackets-git.terminalCommandArgs": "$1",
-            "brackets-git.debugMode": false
+            "brackets-git.debugMode": false,
+            "bb.beautify.hideDialog": true,
+            "color.pal.amount": 4,
+            "color.pal.col0": "#000000",
+            "color.pal.col1": "#008000",
+            "color.pal.col2": "#0000FF",
+            "color.pal.col3": "#ff0000",
+            "colorspp_pref.optionsValues": "{\"options-enable-extension\":[{\"options-enable-extension-all\":\"all\"},{\"options-enable-extension-CSS\":\"CSS\"},{\"options-enable-extension-less\":\"less\"},{\"options-enable-extension-SCSS\":\"SCSS\"}],\"options-show-sections\":[{\"option-show-sections-color-picker\":\"color-picker\"},{\"option-show-sections-document-colors\":\"document-colors\"},{\"option-show-sections-document-color-variables\":\"document-color-variables\"},{\"option-show-sections-color-combinations\":\"color-combinations\"},{\"option-show-sections-function-variants\":\"function-variants\"}],\"options-highlight-colors\":\"background\",\"options-highlight-variables\":\"background\",\"options-highlight-functions\":\"background\"}"
         }
     }
 }
