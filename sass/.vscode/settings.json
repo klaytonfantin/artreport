@@ -1,4 +1,10 @@
 {
     "files.autoSave": "onFocusChange",
-    "search.useGlobalIgnoreFiles": false
+    "search.useGlobalIgnoreFiles": true,
+    "git-autoconfig.configList": [
+        {
+            "user.email": "",
+            "user.name": ""
+        }
+    ]
 }
